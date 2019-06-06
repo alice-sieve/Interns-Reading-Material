@@ -9,3 +9,10 @@ If you are intern working on any of the research listed in the repository, pleas
 - https://arxiv.org/pdf/1511.02556.pdf
 - http://git.infradead.org/users/dedekind/aiaiai.git
 - http://www.automatedtrader.net/glossary/
+- http://econ.lse.ac.uk/staff/spischke/phds/
+- https://www.sciencedirect.com/journal/journal-of-economics-and-business/vol/100
+- https://www.sciencedirect.com/science/article/pii/S0148619599000326
+- https://www.sciencedirect.com/science/article/pii/S0148619599000302
+- https://www.sciencedirect.com/science/article/pii/S0148619515000223
+- https://www.sciencedirect.com/science/article/pii/S0148619515000387
+- https://www.sciencedirect.com/science/article/pii/S0148619500000321
